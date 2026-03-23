@@ -77,9 +77,11 @@ python main.py
 
 The script will:
 
-Display intermediate results
-Align the images
-Generate a GIF showing the registration process
+* Display intermediate results
+
+* Align the images
+
+* Generate a GIF showing the registration process
 
 ---
 
