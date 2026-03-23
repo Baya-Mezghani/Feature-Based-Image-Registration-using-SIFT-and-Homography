@@ -86,18 +86,22 @@ The script will:
 ---
 
 ## Project Structure
+
 Feature-Based-Image-Registration-using-SIFT-and-Homography/
 │
-├── images/ 
-│ ├── mona_source.png
-│ └── mona_target.jpg
+├── images/                    # Input images
+│   ├── mona_source.png
+│   └── mona_target.jpg
 │
-├── results/ # (GIFs)
+├── results/                   # Output images / GIFs (excluded from Git due to size)
+│   ├── aligned_image.png      # Example placeholder
+│   ├── keypoints.png          # Example placeholder
+│   └── registration_process.gif (generated locally)
 │
-├── main.py 
-├── requirements.txt 
-├── README.md
-└── .gitignore
+├── main.py                     # Main pipeline script
+├── requirements.txt            # Python dependencies
+├── README.md                   # Project documentation
+└── .gitignore                  # Ignored files (venv, large GIFs)
 
 ---
 
