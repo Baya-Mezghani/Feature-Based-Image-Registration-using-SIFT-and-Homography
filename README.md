@@ -95,7 +95,6 @@ Feature-Based-Image-Registration-using-SIFT-and-Homography/
 │
 ├── results/  # GIFs
 │  
-│
 ├── main.py                     
 ├── requirements.txt            
 ├── README.md                   
