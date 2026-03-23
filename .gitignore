@@ -144,6 +144,13 @@ ENV/
 env.bak/
 venv.bak/
 
+# Results / outputs
+results/
+results/*.gif
+
+# Media files
+*.gif
+
 # Spyder project settings
 .spyderproject
 .spyproject
